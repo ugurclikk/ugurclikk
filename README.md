@@ -24,9 +24,6 @@ I am working on OpenGL,Flutter,C and C++
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ugurclikk&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ugurclikk&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ugurclikk&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
 
