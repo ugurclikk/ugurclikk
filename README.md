@@ -1,6 +1,5 @@
 #  About Me:
-Passionate about the realms of graphics and user interfaces. <br>Enthusiast of OpenGL's immersive visual experiences and Flutter's elegant cross-platform app development. <br>Join me as I explore the fusion of these technologies to craft captivating digital experiences. 
-
+I am working on OpenGL,Flutter,C and C++
 
 ##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ugurclikk) 
@@ -29,7 +28,7 @@ Passionate about the realms of graphics and user interfaces. <br>Enthusiast of O
 ![](https://github-contributor-stats.vercel.app/api?username=ugurclikk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ugurclikk&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
